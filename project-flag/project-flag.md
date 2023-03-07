@@ -35,7 +35,7 @@ This assignment centers around five distinct vulnerabilities found within the FL
 
 - Go to Login Page
 
-    ![image1](images/media/image1.png){width=50%}
+    ![image1](img/image1.png){width=50%}
   
   
     
